@@ -576,14 +576,7 @@ border-width: 0.75vw;
   height: 110vw; 
 }
 
-#retourAuTop{opacity: 0;
-  position: fixed;
-  z-index: 3;
-  height: 6vw;
-  left:50%;
-  top : 40%;
-  width: 6vw;
-  cursor: pointer;
+#retourAuTop{
 }
 
 #e{
