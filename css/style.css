@@ -582,7 +582,7 @@ border-width: 0.75vw;
   z-index: 3;
   height: 6vw;
   left:90%;
-  top : 90%;
+  top : 80%;
   width: 6vw;
   cursor: pointer;
 }
@@ -644,5 +644,7 @@ border-width: 0.75vw;
     height: 109vw; 
   }
 
-  
+  #retourAuTop{
+    top : 93%;
+  }
 }
