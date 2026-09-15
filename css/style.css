@@ -644,7 +644,9 @@ border-width: 0.75vw;
     height: 109vw; 
   }
 
-  #retourAuTop{
-    top : 93%;
+  @media (min-width: 400px) {
+    #retourAuTop{
+      top : 93%;
   }
+    }
 }
